@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Comic Strip Live Wallpaper</string>
+    <string name="wallpaper_description">Comic Strip Live Wallpaper</string>
+
+    <string-array name="comicstrip_baloon_list">
+        <item>"bang"</item>
+        <item>"blow2"</item>
+        <item>"boom"</item>
+        <item>"craac"</item>
+        <item>"explossion"</item>
+        <item>"ouch"</item>
+        <item>"pfoom"</item>
+        <item>"pop"</item>
+        <item>"splash"</item>
+        <item>"wouf"</item>
+    </string-array>
+
+</resources>
